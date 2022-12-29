@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, I'm Yashaswi Paliwal</h1>
 <h3 align="center">👩‍💻 I'm interested in Web Development.</h3>
-<img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAFWKD1itgU/CMMHYySwtQum-OZck4Jz4A/edit">
 
 - 🎓 I’m currently studying from **Institute of Engineering & Technology, DAVV, Indore**
 
